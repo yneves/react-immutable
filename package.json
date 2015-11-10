@@ -1,0 +1,30 @@
+{
+  "name": "react-immutable",
+  "version": "0.1.0",
+  "description": "React and Immutable holding hands",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yneves/react-immutable.git"
+  },
+  "keywords": [
+    "react",
+    "immutable"
+  ],
+  "author": "Yuri Neves Silveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yneves/react-immutable/issues"
+  },
+  "homepage": "https://github.com/yneves/react-immutable#readme",
+  "dependencies": {
+    "immutable": "^3.7.5",
+    "react": "^0.14.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
