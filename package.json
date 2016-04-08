@@ -1,6 +1,6 @@
 {
   "name": "react-immutable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React and Immutable holding hands",
   "main": "index.js",
   "scripts": {
@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/yneves/react-immutable#readme",
   "dependencies": {
-    "immutable": "^3.7.5",
-    "react": "^0.14.3"
+    "immutable": "^3.7.6",
+    "react": "^15.0.0"
   },
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^2.4.5"
   }
 }
