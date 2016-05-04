@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/yneves/react-immutable#readme",
   "dependencies": {
-    "immutable": "^3.7.6",
-    "react": "^15.0.0"
+    "immutable": "^3.8.1",
+    "react": "^15.0.2"
   },
   "devDependencies": {
     "mocha": "^2.4.5"
